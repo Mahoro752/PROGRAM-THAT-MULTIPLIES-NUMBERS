@@ -1,0 +1,6 @@
+number1 = int(input("Enter First Number: "))
+number2 = int(input("Enter Second Number: "))
+
+x = number1 * number2
+print()
+print("The Product of first and second number is: \n", x)
